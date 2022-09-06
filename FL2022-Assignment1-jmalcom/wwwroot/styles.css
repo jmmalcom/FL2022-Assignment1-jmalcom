@@ -1,0 +1,16 @@
+﻿body {
+    background-color: black;
+    color: white;
+    font: arial;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#CoverArt{
+    border-radius: 40%;
+    width: 400px;
+}
